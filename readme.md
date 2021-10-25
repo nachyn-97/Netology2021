@@ -17,4 +17,5 @@ Jsonnet:
 
 
 Задание №2:
+
 ![Диаграмма без названия](https://user-images.githubusercontent.com/60747760/138723818-571e14ea-632d-4f0b-b722-957fba8fcf7b.png)
